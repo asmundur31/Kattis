@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.morpho": "ocaml",
+    "utility": "cpp"
+  }
+}
